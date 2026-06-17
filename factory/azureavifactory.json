@@ -1,0 +1,15 @@
+{
+	"name": "azureavifactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91f0c844-baba-44cc-b815-315d4d6d841d",
+		"tenantId": "938362a8-fad0-421b-bbe1-8ee10fad4da0"
+	}
+}
